@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jonathan Macedo Castro</h1>
+<h1 align="center">Olá grande dev, sou Jonathan Castro</h1>
 <h3 align="center">Desenvolvedor que vai em buscar de trazer soluções, não só para o mercado, mas para a vida pessoal também. Apaixonado por um desafio, principalmente envolvendo código.</h3>
 
 - 🌱 I’m currently learning **Angular**
