@@ -1,9 +1,8 @@
 <h1 align="center">Olá grande dev, sou Jonathan Castro</h1>
 <h3 align="center">Desenvolvedor que vai em buscar de trazer soluções, não só para o mercado, mas para a vida pessoal também. Apaixonado por um desafio, principalmente envolvendo código.</h3>
 
-- 🌱 I’m currently learning **Java**
-
-- 📫 How to reach me **jonathan.maccas@gmail.com**
+- Atualmente estou estudando sobre **Java**
+- E-mail para contato é **jonathan.maccas@gmail.com**
 
 ## 💼 Perfis profissionais:
 [![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/jonathan5c)
@@ -13,6 +12,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 ## Frameworks
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
