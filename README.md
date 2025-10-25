@@ -1,7 +1,7 @@
 <h1 align="center">Olá grande dev, sou Jonathan Castro</h1>
 <h3 align="center">Desenvolvedor que vai em buscar de trazer soluções, não só para o mercado, mas para a vida pessoal também. Apaixonado por um desafio, principalmente envolvendo código.</h3>
 
-- Atualmente estou estudando sobre **Java**
+- Atualmente estou estudando sobre **Java e Angular**
 - E-mail para contato é **jonathan.maccas@gmail.com**
 
 ## 💼 Perfis profissionais:
@@ -34,5 +34,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jonathan5c&show_icons=true&theme=github_dark&hide_border=true&title_color=00ff99&icon_color=00ff99&text_color=ffffff" />
 </p>
+
 
 
